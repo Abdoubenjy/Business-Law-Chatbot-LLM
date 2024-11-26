@@ -1,0 +1,149 @@
+[
+  {
+    "question": "Quelles sont les étapes pour créer une société en France ?",
+    "answer": "Pour créer une société en France, il est nécessaire de choisir la forme juridique appropriée, rédiger et enregistrer les statuts, constituer le capital social, publier une annonce légale, et immatriculer la société auprès du guichet des formalités des entreprises.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32886"
+  },
+  {
+    "question": "Comment déterminer la nature de l'activité de mon entreprise ?",
+    "answer": "Avant de créer votre entreprise, vous devez définir si votre activité est commerciale, artisanale, libérale ou agricole. Cette classification influence les démarches administratives et les obligations légales.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32887"
+  },
+  {
+    "question": "Quelles sont les formalités d'immatriculation d'une société ?",
+    "answer": "Lors de la création d'une société, il est nécessaire de déposer une demande d'immatriculation en ligne via le guichet des formalités des entreprises, en fournissant les documents requis selon le type de société.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F35934"
+  },
+  {
+    "question": "Comment rédiger et enregistrer les statuts d'une société ?",
+    "answer": "Les statuts définissent les règles sociales, fiscales et juridiques de l'entreprise. Leur rédaction intervient après la fixation du capital social et avant le dépôt de ce capital. La signature des statuts marque la constitution officielle de la société.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32232"
+  },
+  {
+    "question": "Quel est le coût des formalités de création d'une société ?",
+    "answer": "Le coût des formalités de création d'une société varie selon le type de société et la nature de l'activité. Il inclut les frais liés aux démarches obligatoires telles que l'immatriculation, la publication d'annonces légales, et éventuellement les honoraires de professionnels.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F37688"
+  },
+
+  {
+    "question": "Quelles sont les principales formes juridiques d'entreprise en France ?",
+    "answer": "Les principales formes juridiques d'entreprise en France sont : l'entreprise individuelle (EI), la micro-entreprise, la société à responsabilité limitée (SARL), la société par actions simplifiée (SAS), la société anonyme (SA) et la société en nom collectif (SNC). Chaque forme présente des caractéristiques spécifiques en termes de responsabilité, de fiscalité et de gestion.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23844"
+  },
+
+  {
+    "question": "Quelles sont les démarches pour immatriculer une micro-entreprise ?",
+    "answer": "Pour immatriculer une micro-entreprise, il est nécessaire de réaliser une déclaration en ligne sur le guichet des formalités des entreprises, au plus tôt un mois avant le début d'activité ou au plus tard dans les 15 jours suivant le début d'activité. Une fois l'immatriculation effectuée, l'entreprise est inscrite sur un registre approprié.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F36746"
+  },
+  {
+    "question": "Quelles sont les obligations comptables d'une micro-entreprise ?",
+    "answer": "Une micro-entreprise doit tenir un livre des recettes et, si elle exerce une activité commerciale ou artisanale, un registre des achats. Elle est également tenue de conserver toutes les factures et pièces justificatives relatives à son activité.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32968"
+  },
+  {
+    "question": "Comment choisir la forme juridique adaptée à mon projet d'entreprise ?",
+    "answer": "Le choix de la forme juridique dépend de plusieurs facteurs, notamment la nature de l'activité, le nombre d'associés, le niveau de responsabilité souhaité, le régime fiscal et social, ainsi que les besoins en financement. Il est recommandé de consulter un professionnel (avocat, expert-comptable) pour déterminer la structure la plus adaptée à votre projet.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23844"
+  },
+  {
+    "question": "Quelles sont les aides financières disponibles pour la création d'entreprise ?",
+    "answer": "Plusieurs aides financières sont disponibles pour les créateurs d'entreprise, telles que l'ACRE (Aide aux Créateurs et Repreneurs d'Entreprise), le NACRE (Nouvel Accompagnement pour la Création ou la Reprise d'Entreprise), les prêts d'honneur, les subventions régionales, et les exonérations fiscales ou sociales. Les conditions d'éligibilité varient selon les dispositifs.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23263"
+  },
+  {
+    "question": "Quelles sont les formalités pour modifier les statuts d'une société ?",
+    "answer": "Toute modification des statuts d'une société (changement de dénomination sociale, transfert de siège social, modification de l'objet social, etc.) doit être décidée selon les modalités prévues par les statuts, faire l'objet d'un procès-verbal, être publiée dans un journal d'annonces légales, et être déclarée au guichet des formalités des entreprises.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32971"
+  },
+  {
+    "question": "Quelles sont les obligations fiscales d'une entreprise individuelle ?",
+    "answer": "Une entreprise individuelle est soumise à l'impôt sur le revenu dans la catégorie correspondant à la nature de son activité (BIC, BNC, BA). Elle doit également s'acquitter de la TVA si elle dépasse les seuils de franchise, de la cotisation foncière des entreprises (CFE), et, le cas échéant, de la cotisation sur la valeur ajoutée des entreprises (CVAE).",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32965"
+  },
+  {
+    "question": "Comment protéger le nom de mon entreprise ?",
+    "answer": "Pour protéger le nom de votre entreprise, vous pouvez déposer une marque auprès de l'INPI (Institut National de la Propriété Industrielle). Ce dépôt vous confère un droit exclusif d'utilisation du nom pour les produits et services désignés. Il est également recommandé de vérifier la disponibilité du nom avant de l'utiliser.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32972"
+  },
+  {
+    "question": "Quelles sont les obligations sociales d'un employeur lors de l'embauche du premier salarié ?",
+    "answer": "Lors de l'embauche du premier salarié, l'employeur doit effectuer une déclaration préalable à l'embauche (DPAE), inscrire l'entreprise auprès des organismes sociaux (URSSAF, caisses de retraite), établir un contrat de travail, respecter les obligations en matière de médecine du travail, et mettre en place une assurance contre les accidents du travail.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F22791"
+  },
+  {
+    "question": "Quelles sont les conditions pour bénéficier de l'ACRE ?",
+    "answer": "L'ACRE (Aide aux Créateurs et Repreneurs d'Entreprise) est une exonération partielle de charges sociales pendant un an. Elle est accessible aux demandeurs d'emploi indemnisés ou non, aux bénéficiaires de certaines allocations, aux jeunes de 18 à 25 ans, et à d'autres catégories spécifiques. La demande doit être effectuée dans les 45 jours suivant la création ou la reprise de l'entreprise.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23263"
+  }, 
+  {
+    "question": "Quels sont les documents nécessaires pour immatriculer une société ?",
+    "answer": "Les documents nécessaires incluent les statuts signés, l'attestation de dépôt de fonds, la pièce d'identité du dirigeant, un justificatif de domicile, l'attestation de parution dans un journal d'annonces légales et, si applicable, un contrat de domiciliation.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32885"
+  },
+  {
+    "question": "Qu'est-ce qu'une société à responsabilité limitée (SARL) ?",
+    "answer": "La SARL est une forme de société où la responsabilité des associés est limitée à leurs apports. Elle convient aux petites et moyennes entreprises et nécessite un minimum de deux associés, sauf dans le cas de l'EURL (SARL unipersonnelle).",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F21032"
+  },
+  {
+    "question": "Quels sont les avantages de la SAS par rapport à la SARL ?",
+    "answer": "La SAS offre une grande souplesse dans la rédaction des statuts, facilite l'entrée de nouveaux investisseurs, et permet au président d'avoir un statut assimilé-salarié, offrant une protection sociale plus avantageuse.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F21032"
+  },
+  {
+    "question": "Comment publier une annonce légale pour la création d'une société ?",
+    "answer": "Pour publier une annonce légale, il faut rédiger un texte conforme aux exigences légales et le soumettre à un journal habilité à publier des annonces légales dans le département du siège social de l'entreprise.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32973"
+  },
+  {
+    "question": "Quels sont les critères pour être auto-entrepreneur ?",
+    "answer": "Pour devenir auto-entrepreneur, il faut exercer une activité commerciale, artisanale ou libérale, respecter les seuils de chiffre d'affaires fixés annuellement (ex. : 72 600 € pour les services), et ne pas être interdit de gestion.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23265"
+  },
+  {
+    "question": "Comment fonctionne la responsabilité dans une entreprise individuelle ?",
+    "answer": "Dans une entreprise individuelle, la responsabilité de l'entrepreneur est illimitée. Toutefois, sa résidence principale est protégée par défaut et il peut déclarer insaisissables certains biens fonciers non affectés à son activité professionnelle.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23264"
+  },
+  {
+    "question": "Quelles sont les obligations d'une entreprise en matière de TVA ?",
+    "answer": "Une entreprise doit déclarer et reverser la TVA collectée sur ses ventes après déduction de la TVA déductible sur ses achats. Certaines entreprises peuvent bénéficier de la franchise en base de TVA si leur chiffre d'affaires est inférieur à certains seuils.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32966"
+  },
+  {
+    "question": "Comment clôturer une entreprise individuelle ?",
+    "answer": "Pour clôturer une entreprise individuelle, il faut déclarer la cessation d'activité auprès du guichet des formalités des entreprises, solder les impôts et cotisations sociales, et conserver les documents comptables pendant 10 ans.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23265"
+  },
+  {
+    "question": "Quels sont les délais pour déclarer une modification de siège social ?",
+    "answer": "La déclaration de modification de siège social doit être effectuée dans le mois qui suit la décision de transfert. Cette déclaration implique de publier un avis dans un journal d'annonces légales et de mettre à jour les statuts.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32971"
+  },
+  {
+    "question": "Qu'est-ce qu'un fonds de commerce ?",
+    "answer": "Le fonds de commerce est un ensemble d'éléments corporels (matériel, marchandises) et incorporels (clientèle, droit au bail, enseigne) nécessaires à l'exercice d'une activité commerciale. Il peut être vendu, loué ou transmis.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F21033"
+  },
+  {
+    "question": "Quelles sont les obligations en matière de tenue de livres comptables ?",
+    "answer": "Une entreprise doit tenir à jour un livre-journal, un grand livre et un livre d'inventaire. Ces documents doivent être conservés pendant 10 ans et peuvent être présentés sous format papier ou électronique.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32968"
+  },
+  {
+    "question": "Quels sont les délais pour payer la cotisation foncière des entreprises (CFE) ?",
+    "answer": "La cotisation foncière des entreprises (CFE) doit être payée chaque année avant le 15 décembre. Les entreprises nouvellement créées bénéficient d'une exonération pour leur première année d'activité.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F23266"
+  },
+  {
+    "question": "Quelles sont les règles pour établir un contrat de travail ?",
+    "answer": "Un contrat de travail doit préciser l'identité des parties, la date de début du contrat, la nature de l'emploi, la rémunération, et les éventuelles clauses spécifiques (mobilité, non-concurrence). Certaines informations doivent être obligatoirement communiquées par écrit.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F22791"
+  },
+  {
+    "question": "Comment protéger une innovation par un brevet ?",
+    "answer": "Pour protéger une innovation, il est nécessaire de déposer une demande de brevet auprès de l'INPI. L'innovation doit être nouvelle, impliquer une activité inventive et être susceptible d'application industrielle.",
+    "context": "https://entreprendre.service-public.fr/vosdroits/F32847"
+  }
+]
